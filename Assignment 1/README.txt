@@ -16,7 +16,11 @@ Added detection of terrain touching so goals register
 v4.0
 Finalized the build made some small adjustments.
 v5.0
-Released Game
+Finished 1 bug
+v6.0
+Polished player mechanics
+v7.0
+Polished the game design and game overall
 Authors:
 defcn
 William
